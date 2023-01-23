@@ -1,0 +1,5 @@
+C:\Users\oumay\source\repos\Test--1\ConsoleApp1\bin\publish\Test--1.exe
+C:\Users\oumay\source\repos\Test--1\ConsoleApp1\bin\publish\Test--1.dll
+C:\Users\oumay\source\repos\Test--1\ConsoleApp1\bin\publish\Test--1.deps.json
+C:\Users\oumay\source\repos\Test--1\ConsoleApp1\bin\publish\Test--1.runtimeconfig.json
+C:\Users\oumay\source\repos\Test--1\ConsoleApp1\bin\publish\Test--1.pdb
